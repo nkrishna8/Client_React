@@ -1,0 +1,16 @@
+.user-profile {
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .profile-image {
+    width: 100px; /* Adjust image width as needed */
+    height: 100px; /* Adjust image height as needed */
+    border-radius: 50%; /* Make the image circular */
+    margin-right: 10px; /* Add some space between the image and name */
+  }
+  
+  .profile-name {
+    margin: 0; /* Remove default margin */
+  }
+  

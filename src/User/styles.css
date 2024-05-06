@@ -1,0 +1,26 @@
+.user {
+display: flex;
+flex-direction: row;
+margin: 6px;
+justify-content: space-around;
+border: 2px solid blue;
+margin-bottom: 10px;
+box-shadow: 10px 10px 10px 2px grey;  }
+
+.info-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.user-card{
+    display: flex;
+    /* flex-direction: row;
+    justify-content: space-between; */
+}
+
+.user-card img{
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+  
